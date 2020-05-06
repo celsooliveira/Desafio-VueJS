@@ -1,5 +1,8 @@
 # vuejs-roleta
 
+# Projeto desavio Sell2Brazil. Jogo roleta de sorteios
+# Framework adotado VueJS - Utilizando Vuex para gerenciamento de estado
+
 ## Project setup
 ```
 npm install
